@@ -36,7 +36,7 @@
 					<span style="font-family:宋体;font-weight:bold;font-size:10.0000pt;">华强电子网络交易有限公司</span><span style="font-family:&amp;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:'Times New Roman';font-size:10.5000pt;">&nbsp;</span> 
 				</p>
@@ -48,7 +48,7 @@
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">.NET开发工程师</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">2014.07-2016.07</span><span style="font-family:&amp;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
@@ -85,7 +85,7 @@
 					<span style="font-family:宋体;font-weight:bold;font-size:10.0000pt;">中山大学(自考本科)</span><span style="font-family:微软雅黑;font-weight:bold;font-size:10.5000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:'Times New Roman';font-size:10.5000pt;">&nbsp;</span> 
 				</p>
@@ -97,7 +97,7 @@
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">本科</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:微软雅黑;color:#808080;font-size:10.0000pt;">·</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:宋体;color:#808080;font-size:10.0000pt;">行政管理</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">2018年毕业(预计)</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
@@ -116,7 +116,7 @@
 					<span style="font-family:宋体;font-weight:bold;font-size:10.0000pt;">广东科贸职业学院</span><span style="font-family:微软雅黑;font-weight:bold;font-size:10.5000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:'Times New Roman';font-size:10.5000pt;">&nbsp;</span> 
 				</p>
@@ -128,7 +128,7 @@
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">大专</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:微软雅黑;color:#808080;font-size:10.0000pt;">·</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:宋体;color:#808080;font-size:10.0000pt;">计算机软件工程</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">2015年毕业</span><span style="font-family:&amp;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
@@ -153,7 +153,7 @@
 					<span style="font-family:宋体;font-weight:bold;font-size:10.5000pt;">华强洽洽客户端</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:'Times New Roman';font-size:10.5000pt;">&nbsp;</span> 
 				</p>
@@ -165,7 +165,7 @@
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">业务开发</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">2015.11-2016.07</span><span style="font-family:&amp;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
@@ -184,7 +184,7 @@
 					<span style="font-family:宋体;font-weight:bold;font-size:10.5000pt;">华强电子网移动端</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:'Times New Roman';font-size:10.5000pt;">&nbsp;</span> 
 				</p>
@@ -196,7 +196,7 @@
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">业务逻辑开发</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">2014.10-2016.07</span><span style="font-family:&amp;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
@@ -215,7 +215,7 @@
 					<span style="font-family:宋体;font-weight:bold;font-size:10.5000pt;">华强电子网微信公众号</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:'Times New Roman';font-size:10.5000pt;">&nbsp;</span> 
 				</p>
@@ -227,7 +227,7 @@
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">业务开发</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">2014.10-2016.07</span><span style="font-family:&amp;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
@@ -246,7 +246,7 @@
 					<span style="font-family:宋体;font-weight:bold;font-size:10.5000pt;">华强后台业务处理</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:'Times New Roman';font-size:10.5000pt;">&nbsp;</span> 
 				</p>
@@ -258,7 +258,7 @@
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">统计管理开发</span><span style="font-family:&amp;color:#808080;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
 			</td>
-			<td width="147" valign="top">
+			<td width="400" valign="top">
 				<p class="NewStyle16">
 					<span style="font-family:宋体;color:#808080;font-size:10.0000pt;">2014.08-2016.07</span><span style="font-family:&amp;font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.0000pt;">&nbsp;</span><span style="font-family:'Times New Roman';font-size:10.5000pt;"></span> 
 				</p>
